@@ -32,7 +32,7 @@ To access the data please click
 ![](https://github.com/burcucebecioglu/BeeAware/blob/gh-pages/w1.jpg?raw=true)
 ![](https://github.com/burcucebecioglu/BeeAware/blob/gh-pages/w2.jpg?raw=true)
 ![](https://github.com/burcucebecioglu/BeeAware/blob/gh-pages/w3.jpg?raw=true)
-![](Chttps://github.com/burcucebecioglu/BeeAware/blob/gh-pages/w4.jpg?raw=true)
+![](https://github.com/burcucebecioglu/BeeAware/blob/gh-pages/w4.jpg?raw=true)
 
 ![](https://github.com/burcucebecioglu/BeeAware/blob/gh-pages/p.jpg?raw=true)
 ![](https://github.com/burcucebecioglu/BeeAware/blob/gh-pages/p1.jpg?raw=true)
