@@ -78,6 +78,17 @@ To access the data please click
 ![](C:/Users/BURCUCBC/Desktop/Mat381Proje/image/e3.jpg)
 ![](C:/Users/BURCUCBC/Desktop/Mat381Proje/image/e4.jpg)
 
+![](C:/Users/BURCUCBC/Desktop/Mat381Proje/image/a.jpg)
+![](C:/Users/BURCUCBC/Desktop/Mat381Proje/image/a1.jpg)
+![](C:/Users/BURCUCBC/Desktop/Mat381Proje/image/a2.jpg)
+![](C:/Users/BURCUCBC/Desktop/Mat381Proje/image/a2.jpg)
+
+![](C:/Users/BURCUCBC/Desktop/Mat381Proje/image/a3.jpg)
+![](C:/Users/BURCUCBC/Desktop/Mat381Proje/image/a4.jpg)
+
+![](C:/Users/BURCUCBC/Desktop/Mat381Proje/image/a5.jpg)
+
+
 ![](C:/Users/BURCUCBC/Desktop/Mat381Proje/image/ps.jpg)
 ![](C:/Users/BURCUCBC/Desktop/Mat381Proje/image/ps1.jpg)
 ![](C:/Users/BURCUCBC/Desktop/Mat381Proje/image/ps2.jpg)
@@ -114,4 +125,5 @@ For this, we wanted to show the wbl index change from 1971 to 2021, which is on 
 ![](C:/Users/BURCUCBC/Desktop/Mat381Proje/image/South Asia.gif)
 
 ![](C:/Users/BURCUCBC/Desktop/Mat381Proje/image/Sub-Saharan Africa.gif)
+
 
