@@ -13,7 +13,7 @@ _Our goal in this project is to show the differences between men and women in di
 ![](https://openknowledge.worldbank.org/bitstream/handle/10986/35094/9781464816529.pdf.jpg?sequence=3&isAllowed=y)
 
 ## Introduction of data & problem statement
-_Our data contains Women, Business and the Law (WBL) data for 190 economies in 2020. Data is provided for 35 different questions across 8 scored indicators. These indicators are mobility, workplace, pay, marriage, parenthood, entrepreneurship, assets, and pension. The WBL index scores are based on the average of each economy’s scores for the 8 topics included in this year’s aggregate score. A higher score indicates more gender equal laws._Our data's dimension is 190x61._
+_Our data contains Women, Business and the Law (WBL) data for 190 economies in 2020. Data is provided for 35 different questions across 8 scored indicators. These indicators are mobility, workplace, pay, marriage, parenthood, entrepreneurship, assets, and pension. The WBL index scores are based on the average of each economy’s scores for the 8 topics included in this year’s aggregate score. A higher score indicates more gender equal laws.Our data's dimension is 190x61._
 To access the data please click
 [DATA](https://datacatalog.worldbank.org/dataset/women-business-and-law)
 ![](http://blogs.worldbank.org/sites/default/files/blogs-images/2020-01/indicators_graphic.png)
